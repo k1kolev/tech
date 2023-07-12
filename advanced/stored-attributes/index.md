@@ -2,7 +2,7 @@
 
 Stored attributes, also known as custom properties or custom attributes, allow you to extend the data model with **user-defined attributes**. They store values in the database, expanding the system tables.
 
-![User data attributes](user-data-attributes.png)
+![Stored Attributes](stored-attributes.png)
 
 ## Similarity with system attributes
 
